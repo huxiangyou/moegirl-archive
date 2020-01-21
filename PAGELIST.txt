@@ -216,6 +216,7 @@
 [MR__]	106334	南ことり
 [MR__]	106335	绚濑絵里
 [MR__]	106369	雪色光晕
+[U___]	106372	User:妹空酱/Lovelive音乐
 [MR__]	106435	ススメ→トゥモロウ
 [MR__]	106436	これからのSomeday
 [MR__]	106437	梦なき梦は梦じゃない
@@ -243,6 +244,7 @@
 [T_T_]	106637	Template talk:LoveLive!收录曲目
 [MR__]	106685	Mermaid festa vol.2 ~passionate~
 [T___]	106713	Template:用户 LLer
+[T_T_]	106763	Template talk:LoveLive!NS!
 [MR__]	107026	孤独なHeaven
 [MR__]	107358	きっと青春が聞こえる
 [MR__]	107359	僕らは今のなかで
@@ -612,6 +614,7 @@
 [U___]	161031	User:Eddie32/FinalLive
 [T_T_]	161717	Template talk:LoveLiveSongGai
 [MR__]	162657	秋之彼端路遥远
+[U___]	163077	User:Eddie32/LoveLiveForever!
 [MR__]	163287	蓝莓 列车
 [MR__]	163415	秋之彼端路遥远(专辑)
 [M___]	163702	想在AQUARIUM恋爱
@@ -671,6 +674,7 @@
 [U___]	172299	User:Zyzsdy/LLSS色卡
 [MR__]	172326	Lovelive!事件年表
 [MR__]	172358	恋爱的信号 Rin rin rin!
+[U___]	172767	User:Bili hei/LoveLive staff转推
 [M_TS]	173667	Talk:LoveLive!/2015
 [M_T_]	174923	Talk:想在AQUARIUM恋爱
 [M___]	175113	Guilty Night, Guilty Kiss!
@@ -695,6 +699,7 @@
 [TR__]	184544	Template:LoveLiveSchoolIdolProject!
 [T_TR]	184545	Template talk:LoveLiveSchoolIdolProject!
 [T___]	184546	Template:LoveLive!/系列音乐列表
+[P___]	184825	萌娘百科:页面存废/LoveLiveSongGai2/SIF
 [MR__]	184997	まほうつかいはじめました！
 [MR__]	184998	純愛レンズ
 [M___]	185012	最喜欢的话就没问题！
@@ -726,6 +731,7 @@
 [M___]	197490	Strawberry Trapper(单曲)
 [M_T_]	198917	Talk:不成熟的DREAMER
 [M___]	199599	MIRAI TICKET
+[U___]	200119	User:Zyzsdy/LLSS资源
 [M___]	201679	LoveLive!Sunshine!!/Aqours First LoveLive!～Step! ZERO to ONE～
 [M___]	202195	无法停止的Jingle Bell
 [TR__]	202274	Template:LoveLive!Sunshine!!
@@ -786,6 +792,7 @@
 [M___]	222229	LoveLive!学园偶像祭/第一次 Challenge Festival
 [MR__]	222251	LoveLive日服活动列表
 [M___]	222313	LoveLive!学园偶像祭/第一次 Medley Festival
+[M_T_]	222327	Talk:LoveLive!学园偶像祭/投票/台服
 [M___]	222333	LoveLive!学园偶像祭/第一次 Score Match
 [M___]	222345	LoveLive!学园偶像祭/Sweet Holiday 小鸟的点心
 [M___]	222373	LoveLive!学园偶像祭/第二次 Medley Festival
@@ -1022,6 +1029,7 @@
 [U___]	247979	User:胡祥又/想在AQUARIUM恋爱应援
 [M___]	248373	LoveLive!学园偶像祭/第二次 散步拉力赛
 [MR__]	249271	樱花雨
+[U___]	249403	User:田中琴叶/我对某些LLer的一点看法
 [M___]	249529	LoveLive!学园偶像祭/往期版本更新记录
 [C___]	251073	Category:Saint Snow歌曲
 [M___]	252101	LoveLive!学园偶像祭/第十八次 Medley Festival
@@ -1100,6 +1108,7 @@
 [M___]	273018	RED GEM WINK
 [M___]	273020	WHITE FIRST LOVE
 [M___]	273036	LoveLive!学园偶像祭/第四次 散步拉力赛
+[U___]	274054	User:Bbbbbbbbba/Love Novels（Lyrica Live）
 [M___]	274786	LoveLive!学园偶像祭/第五次 友情大合战
 [T___]	275370	Template:LoveLive卡片信息
 [T___]	275378	Template:LoveLive卡片信息/doc
@@ -1294,6 +1303,7 @@
 [M___]	318588	LoveLive!学园偶像祭/第十一次 友情大合战
 [M___]	321202	LoveLive!学园偶像祭/第九次 散步拉力赛
 [M___]	321994	高坂穗乃果的父亲
+[U___]	322248	User:TBB000623/Lovelive学园偶像祭国服礼包
 [M___]	324156	LoveLive!学园偶像祭/第三十九次 Score Match
 [MR__]	325240	LoveLive!学园偶像祭/Guilty Eyesで 恋に落ちて
 [M___]	325564	高海志满
