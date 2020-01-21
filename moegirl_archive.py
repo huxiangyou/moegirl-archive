@@ -123,7 +123,7 @@ for pageidlist_d in devide(pageidlist,50):
 		else:
 			saveContent(pageid)
 		n_all+=1
-reviddict['info']="萌娘百科LoveLive!系列页面存档"
+reviddict['info']="萌娘百科页面存档"
 reviddict['time']=json['curtimestamp']
 reviddict['by']=socket.getfqdn(socket.gethostname())
 
