@@ -71,7 +71,8 @@ def saveContent(pageid:int):
 			print(".",end="")
 			continue
 		else:
-			break
+			if a.ok:
+				break
 	json:dict=a.json()
 	if not isResponceOK(json):
 		raise
@@ -90,14 +91,14 @@ def saveContent(pageid:int):
 				f=open(fold+title_in_file+".txt",'w',encoding='UTF-8')
 				f.write(content)
 				f.close()
-				reviddict[pageid]=[revid,title]
+				reviddict[pageid]=(revid,title)
 				print("[存][覆盖]","\t[PID]",pageid,"\t[RID]",revid,"\t[Title]",title)
 				n_overridden+=1
 		else:
 			f=open(fold+title_in_file+".txt",'w',encoding='UTF-8')
 			f.write(content)
 			f.close()
-			reviddict[pageid]=[revid,title]
+			reviddict[pageid]=(revid,title)
 			print("[存][新]","\t[PID]",pageid,"\t[RID]",revid,"\t[Title]",title)
 			n_new+=1
 
@@ -114,7 +115,8 @@ for pageidlist_d in devide(pageidlist,50):
 			print(".",end="")
 			continue
 		else:
-			break
+			if a.ok:
+				break
 	json:dict=a.json()
 	for pageid in pageidlist_d:
 		if pageid in reviddict:
