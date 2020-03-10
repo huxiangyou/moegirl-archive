@@ -183,7 +183,7 @@
 [M___]	133379	NO EXIT ORION
 [M___]	133973	LoveLive!学园偶像电影
 [M___]	133975	LoveLive!/LoveLi部 广播课外活动
-[M___]	133978	LoveLive!/LoveLive部 Nico生课外活动
+[M___]	133978	LoveLive!/LoveLi部 Nico生课外活动
 [M___]	133983	LoveLive!/新田Fight Club
 [M___]	134140	WAO-WAO Powerful day!
 [M___]	135000	LoveLive!/Tokyo MX特番泄露事件
@@ -598,7 +598,7 @@
 [M___]	292552	向着梦想的一步
 [M___]	292556	Diamond(LoveLive!)
 [M___]	292560	你理想的女主角
-[M___]	292652	LoveLive!学园偶像祭/LoveLive!学园偶像祭发展历史
+[M___]	292652	LoveLive!学园偶像祭/发展历史
 [M___]	292654	LoveLive!学园偶像祭/游戏机制
 [M___]	292658	LoveLive!学园偶像祭/活动介绍
 [M___]	292660	LoveLive!学园偶像祭/歌曲列表
@@ -653,13 +653,13 @@
 [M___]	324156	LoveLive!学园偶像祭/第三十九次 Score Match
 [M___]	325564	高海志满
 [M___]	325760	LoveLive!学园偶像祭/第二十次 Medley Festival
-[M___]	326378	千歌的母亲
+[M___]	326378	高海千歌的母亲
 [M___]	327040	LoveLive!Sunshine!!/Aqours World LoveLive! in LA ～BRAND NEW WAVE～
 [M___]	327280	LoveLive!学园偶像祭/卒業バイバイ
 [M___]	328208	Jump up HIGH!!
 [M___]	328216	Aqours CLUB CD SET 2019
 [M___]	328270	LoveLive!学园偶像祭/第十八次 Challenge Festival
-[M___]	328626	梨子的母亲
+[M___]	328626	樱内梨子的母亲
 [M___]	329118	LoveLive!系列/9th Anniversary LOVE LIVE! FEST
 [M___]	329962	LoveLive!学园偶像祭/第十次 散步拉力赛
 [M___]	330374	I-n-g, I TRY!!
@@ -688,17 +688,17 @@
 [M___]	339120	KOKORO Magic “A to Z”
 [M___]	339226	LoveLive!学园偶像祭/第十九次 Challenge Festival
 [M___]	339988	学园偶像祭系列感谢祭
-[M___]	340028	学园偶像祭系列感谢祭2016
-[M___]	340058	学园偶像祭系列感谢祭2017
-[M___]	340068	学园偶像祭系列感谢祭2019
-[M___]	340264	学园偶像祭系列感谢祭2018
-[M___]	340298	学园偶像祭系列感谢祭2015
+[M___]	340028	学园偶像祭系列感谢祭/2016
+[M___]	340058	学园偶像祭系列感谢祭/2017
+[M___]	340068	学园偶像祭系列感谢祭/2019
+[M___]	340264	学园偶像祭系列感谢祭/2018
+[M___]	340298	学园偶像祭系列感谢祭/2015
 [M___]	341058	KOKORO Magic “A to Z”(单曲)
 [M___]	341418	LoveLive!学园偶像祭/響く共鳴、つながるセカイ
 [M___]	341786	LoveLive!学园偶像祭ALL STARS/游戏机制
 [M___]	342830	LoveLive!学园偶像祭/第二十二次 Medley Festival
 [M___]	342934	LoveLive!Sunshine!!/UNIT LIVE ADVENTURE 2020
-[M___]	343090	LoveLive!学园偶像祭ALL STARS/秘密のパーティー！
+[M___]	343090	LoveLive!学园偶像祭ALL STARS/秘密派对！
 [M___]	343792	LoveLive!学园偶像祭ALL STARS/外部链接及参考资料
 [M___]	344428	Wake up, Challenger!!
 [M___]	344430	New Romantic Sailors
@@ -752,6 +752,14 @@
 [M___]	362338	LoveLive!学园偶像祭ALL STARS/剧情列表
 [M___]	364122	A song for You! You? You!!(单曲)
 [M___]	364290	なってしまった!
+[M___]	365540	LoveLive!学园偶像祭/第四十二次 Score Match
+[M___]	365590	LoveLive!虹咲学园学园偶像同好会/虹咲学园早安放送室
+[M___]	365872	小原鞠莉的母亲
+[M___]	366834	学园偶像祭系列感谢祭/2020
+[M___]	367472	LoveLive!Sunshine!!/音乐列表
+[M___]	367466	LoveLive!虹咲学园学园偶像同好会/音乐列表
+[M___]	367314	奥尔加Live
+[M___]	367756	LoveLive!Sunshine!!/Aqours浦之星女子学院RADIO!!!
 [C___]	79485	Category:LoveLive!
 [C___]	91615	Category:LoveLive! 学园偶像祭
 [C___]	106322	Category:LoveLive!Sunshine!!
@@ -857,687 +865,679 @@
 [M_TR]	358262	Talk:魔法使初次见面!
 [M_TS]	173667	Talk:LoveLive!/2015
 [M_TS]	187171	Talk:LoveLive!/201601
-[MR__]	79118	垃圾人
-[MR__]	79519	Love Live!
-[MR__]	82003	一之濑茉莉香
-[MR__]	82055	宫下可可
-[MR__]	82105	矢泽日香
-[MR__]	82109	南琴梨
-[MR__]	83596	妮可妮可妮
-[MR__]	83598	Niconiconi
-[MR__]	83599	日香日香日
-[MR__]	84706	好好的一个人
-[MR__]	85068	ぶる～べりぃ♡とれいん
-[MR__]	85115	夏、終わらないで。
-[MR__]	85140	友情不变
-[MR__]	85153	Wonderful rush
-[MR__]	85165	士兵游戏
-[MR__]	85306	爱你万岁
-[MR__]	86066	爱你万岁!(PIANO MIX)
-[MR__]	86627	KKE
-[MR__]	86760	蓝莓火车
-[MR__]	86834	Puwapuwa-o!
-[MR__]	86852	孤独的天堂
-[MR__]	86993	LoveLive！
-[MR__]	86997	明明只是你
-[MR__]	87612	魔法使初次见面!
-[MR__]	88883	Baby maybe恋爱的button
-[MR__]	89498	Minalinsky
-[MR__]	90375	黒羽咲良
-[MR__]	90379	克里斯蒂娜(LoveLive!学园偶像祭)
 [MR__]	90392	LoveLive
-[MR__]	90815	无梦之梦不是梦
-[MR__]	91039	喜欢吗喜欢吗？
-[MR__]	94072	明星學生妹
-[MR__]	94199	妮可笑眯眯
-[MR__]	94828	矢泽妮歌
-[MR__]	96427	LoveLive! 学园偶像祭
-[MR__]	96484	我给你三张KKE
-[MR__]	96485	买袜子go go
-[MR__]	96494	黑丝的大叔
-[MR__]	96495	王大粽
-[MR__]	96969	凛喵
-[MR__]	97008	Μ's
-[MR__]	97414	LoveLive! 学园偶像天国
-[MR__]	97457	タカラモノズ
-[MR__]	97459	ふたりハピネス
-[MR__]	97460	輝夜の城で踊りたい
-[MR__]	97461	想在輝夜之城起舞
-[MR__]	97462	だってだって噫無情
-[MR__]	97603	Lovelive
-[MR__]	99654	学院偶像祭主要角色
-[MR__]	99946	Niconiconi～
-[MR__]	100221	樱阪雫
-[MR__]	100268	喜欢你万岁!
-[MR__]	100269	夏日勿终
-[MR__]	100270	如果将来一定
-[MR__]	100271	通往梦想的大门
-[MR__]	101996	同じ星が见たい
-[MR__]	101997	ぷわぷわーお！
-[MR__]	102258	ありふれた悲しみの果て
-[MR__]	102261	勇気のReason
-[MR__]	102267	正因为是噫无情
-[MR__]	102467	秋日的你逐渐远去
-[MR__]	102700	爱不像太阳吗?
-[MR__]	103536	キミのくせに!
-[MR__]	103537	僕らのLIVE 君とのLIFE
-[MR__]	104396	请教我如何面对未到的爱情
-[MR__]	104595	恋のシグナルRin rin rin!
-[MR__]	105630	我们的live 你的life
-[MR__]	106231	スピカテリブル
-[MR__]	106299	ラブライブ！サンシャイン！！
-[MR__]	106333	矢泽にこ
-[MR__]	106334	南ことり
-[MR__]	106335	绚濑絵里
-[MR__]	106369	雪色光晕
-[MR__]	106435	ススメ→トゥモロウ
-[MR__]	106436	これからのSomeday
-[MR__]	106437	梦なき梦は梦じゃない
-[MR__]	106438	なわとび
-[MR__]	106439	にこぷり♥女子道
-[MR__]	106440	硝子の花園
-[MR__]	106441	ぷわぷわーお!
-[MR__]	106442	それは僕たちの奇跡
-[MR__]	106443	どんなときもずっと
-[MR__]	106444	ユメノトビラ
-[MR__]	106445	これまでのラブライブ！
-[MR__]	106446	ずるいよMagnetic today
-[MR__]	106447	くるりんMIRACLE
-[MR__]	106448	もしもからきっと
-[MR__]	106449	好きですが好きですか?
-[MR__]	106450	そして最後のページには
-[MR__]	106451	私たちは未来の花
-[MR__]	106452	爱は太阳じゃない？
-[MR__]	106453	もうひとりじゃないよ
-[MR__]	106454	るてしキスキしてる
-[MR__]	106455	革命ですね?神様!
-[MR__]	106456	斯くも憂美な日となりて
-[MR__]	106457	革命ですね？神様！
-[MR__]	106460	これまでのLoveLive!
-[MR__]	106685	Mermaid festa vol.2 ~passionate~
-[MR__]	107026	孤独なHeaven
-[MR__]	107358	きっと青春が聞こえる
-[MR__]	107359	僕らは今のなかで
-[MR__]	107369	ミはμ’sicのミ
-[MR__]	107483	通向梦想之门
-[MR__]	107864	シアワセ行きのSMILING!
-[MR__]	108702	友情ノーチェンジ
-[MR__]	108791	学园偶像祭主要角色
-[MR__]	108797	永遠フレンズ
-[MR__]	108806	学园偶像祭
-[MR__]	108807	学园偶像天国
-[MR__]	109580	冬がくれた予感
-[MR__]	109583	乙女式れんあい塾
-[MR__]	109625	乙姫心で恋宫殿
-[MR__]	110133	这就是我们的奇迹
-[MR__]	110135	乙姫心で恋宮殿
-[MR__]	110136	最低で最高のPARADISO
-[MR__]	110137	MUSEUMでどうしたい？
-[MR__]	110759	爱如阳光
-[MR__]	111210	深井冰配音版LoveLive!
-[MR__]	111211	2.5次元LoveLive!
-[MR__]	112124	Hello,星を数えて
-[MR__]	112226	为了保护我们心爱的○○○……成为偶像！
-[MR__]	112228	Hello,数星星
-[MR__]	112801	黒澤ダイヤ
-[MR__]	112813	黑澤ダイヤ
-[MR__]	112977	After school NAVIGATOR
-[MR__]	113522	我们是一束光
-[MR__]	113544	僕たちはひとつの光
-[MR__]	115950	小鸟的母亲
-[MR__]	115982	南太太
-[MR__]	116322	黒澤ルビィ
-[MR__]	116409	黑澤ルビィ
-[MR__]	116460	妮可的母亲
-[MR__]	117192	コドクの回廊
-[MR__]	119335	樱坂しずく
-[MR__]	119336	Osaka Shizuku
-[MR__]	121542	一心一教
-[MR__]	122639	羽は知ってしまったの
-[MR__]	122830	大头抢镜
-[MR__]	123690	我说啊请你加油
-[MR__]	123691	我·说·啊·请·你·加·油!
-[MR__]	123693	爱上你万岁
-[MR__]	123694	我·说·啊·请·你·加·油
-[MR__]	123695	不知道的Love*教给我吧Love
-[MR__]	125836	RADIO animelo mix LoveLive!~希绘里 Radio Garden~
-[MR__]	125902	Aqours☆HEROES
-[MR__]	125959	RADIO animelo mix LoveLive 希绘里 Radio Garden
 [MR__]	126129	Love Arrow Shoot
-[MR__]	127617	SIF
-[MR__]	128509	HEART to HEART!
-[MR__]	131962	软绵绵的-哦!
-[MR__]	132349	LoveLive! μ's Go→Go! LoveLive! 2015 〜Dream Sensation!〜
-[MR__]	133416	满怀爱意接近中!
-[MR__]	133422	爱你万岁!
-[MR__]	133438	深井冰配音版lovelive
-[MR__]	133977	Loveli Radio NicoRinPana
-[MR__]	133980	LoveLive部 Nico生课外活动
-[MR__]	133981	LoveLive部 Nico生课外活动~鸟果海~ & LoveLive部 Nico生课外活动~鸟果真姬~
-[MR__]	133984	Nico生LoveLive! 新田 Fight Club
-[MR__]	134034	告白日和!
-[MR__]	134037	我开始做魔法使了!
-[MR__]	135295	LoveLive! μ's 3rd Anniversary LoveLive!
-[MR__]	140774	LoveLive! NEXT LoveLive! 2014 ENDLESS PARADE
-[MR__]	141267	矢泽可可罗
-[MR__]	141268	矢泽可可亚
-[MR__]	142016	穗乃果的母亲
-[MR__]	142017	白色羊驼
-[MR__]	142018	棕色羊驼
-[MR__]	142055	真姬的母亲
-[MR__]	145233	Step！ZERO to ONE
-[MR__]	151691	希果百宝箱
-[MR__]	151945	LoveLive!/我们的LIVE 与你的LIFE
-[MR__]	152862	夏色えがおで1,2,Jump!
-[MR__]	152863	もぎゅっと“love”で接近中!
-[MR__]	152864	ミはμ'sicのミ
-[MR__]	152905	Go Go Lovelive 2015 Dream Sensation
-[MR__]	152906	NEXT LoveLive 2014 ENDLESS PARADE
-[MR__]	152961	梦想大门
-[MR__]	153255	ことりLovin' you(专辑)
-[MR__]	153457	这就是我们的奇迹(专辑)
-[MR__]	153932	再会了再见!
-[MR__]	154432	Aqours
-[MR__]	155019	Angelic Angel Hello,数星星
-[MR__]	155022	一定能听见青春的乐章
-[MR__]	155023	我们是未来的花朵
-[MR__]	155024	想见到同样的繁星
-[MR__]	155026	爱如阳光?
-[MR__]	155028	冬天带给我的预感
-[MR__]	155033	满怀爱意接近中
-[MR__]	155050	团团凛MIRACLE
-[MR__]	155768	一定能听见青春的乐章(专辑)
-[MR__]	155769	如今的我们(专辑)
-[MR__]	155796	微笑小香香
-[MR__]	156600	秋天的你的遥远天空(专辑)
-[MR__]	156606	秋日的你远在天边
-[MR__]	156607	秋天的你远离天空
-[MR__]	159731	Μ's →NEXT LoveLive! 2014 〜ENDLESS PARADE〜
-[MR__]	160095	ラブノベルス
-[MR__]	160135	錯覚CROSSROADS(专辑)
-[MR__]	160138	キミのくせに！
-[MR__]	160221	LoveLive! The School idol Movie
-[MR__]	160386	Baby maybe恋爱的纽扣
-[MR__]	160388	Mermaid festavol.1
-[MR__]	160389	满怀爱意接近你
-[MR__]	160391	不夜城之舞
-[MR__]	160392	继续前进→Tomorrow
-[MR__]	160396	未来的某一天
-[MR__]	160397	不知道的Love 告诉我吧Love
-[MR__]	160401	我们的奇迹
-[MR__]	160449	微热的Mystery
-[MR__]	160450	夏日,不会终结
-[MR__]	160451	分明就是你!
-[MR__]	160602	满溢悲伤的尽头
-[MR__]	160905	孤独天堂
-[MR__]	160906	可是可是噫无情
-[MR__]	162657	秋之彼端路遥远
-[MR__]	163287	蓝莓 列车
-[MR__]	163415	秋之彼端路遥远(专辑)
-[MR__]	163790	爱不是太阳么?
-[MR__]	167107	届かない星だとしても
-[MR__]	167304	?←HEARTBEAT
-[MR__]	169231	夜空はなんでも知ってるの？
-[MR__]	169237	元気全開DAY! DAY! DAY!
-[MR__]	169415	等着爱的歌
-[MR__]	171082	Baby maybe 恋のボタン
-[MR__]	171083	愛してるばんざーい！
-[MR__]	171084	もぎゅっと“love”で接近中！
-[MR__]	171085	さようならへさよなら!
-[MR__]	171087	ダイヤモンドプリンセスの憂鬱
-[MR__]	171088	錯覚CROSSROADS
-[MR__]	171089	知らないLove*教えてLove
-[MR__]	171090	微熱からMystery
-[MR__]	171091	秋のあなたの空遠く
-[MR__]	171092	春情ロマンティック
-[MR__]	171093	思い出以上になりたくて
-[MR__]	171102	好きですが好きですか？
-[MR__]	171103	羽は知ってしまったの？
-[MR__]	171104	秘密と花園
-[MR__]	171105	ここで待ってるよ
-[MR__]	171106	嵐のなかの恋だから
-[MR__]	171107	君のこころは輝いてるかい？
-[MR__]	171108	恋になりたい AQUARIUM
-[MR__]	171110	待ってて愛のうた
-[MR__]	171617	前进→Tomorrow
-[MR__]	171771	ときめき分類学
-[MR__]	172284	元気全开 DAY! DAY! DAY!
-[MR__]	172289	トリコリコPLEASE!!
-[MR__]	172326	Lovelive!事件年表
-[MR__]	172358	恋爱的信号 Rin rin rin!
-[MR__]	180667	Lovelive! Sunshine!!
-[MR__]	181997	僕光
-[MR__]	183322	微热mystery
-[MR__]	184997	まほうつかいはじめました！
-[MR__]	184998	純愛レンズ
-[MR__]	188595	心跳分类学
-[MR__]	189823	LLer
-[MR__]	189973	Lovelivesunshine
-[MR__]	191094	Endless Love 从未改变的友情
-[MR__]	191428	ユメ語るよりユメ歌おう
-[MR__]	192959	未熟DREAMER
-[MR__]	193304	拉拉人
-[MR__]	196304	想いよひとつになれ
-[MR__]	196528	从诉说梦想到歌唱梦想
-[MR__]	204453	不会停止的Jingle Bell
-[MR__]	204517	圣日之祈祷
-[MR__]	206193	停不下来的Jingle Bell(专辑)
-[MR__]	206195	停不下来的Jingle Bell
-[MR__]	206415	夢で夜空を照らしたい
-[MR__]	206417	決めたよHand in Hand
-[MR__]	206419	ダイスキだったらダイジョウブ！
-[MR__]	208513	果果
-[MR__]	209297	User:萌萌汤圆/Lovelive!Sunshine!!/动画化作品
-[MR__]	209299	Lovelive!Sunshine!!/动画化作品
-[MR__]	209301	LoveLive!Sunshine!!/动画化作品
-[MR__]	211265	ラブライブ School idol project
-[MR__]	212383	你怎么可能会有女朋友嘛
-[MR__]	213523	珍珠星的距离
-[MR__]	215499	我们活在当下
-[MR__]	216439	我们的Live与你的Life
-[MR__]	216625	想在水族馆恋爱
-[MR__]	216627	想在水族馆恋爱(专辑)
-[MR__]	216867	开心二人组
+[MR__]	89498	Minalinsky
+[MR__]	96969	凛喵
+[MR__]	106334	南ことり
+[MR__]	82109	南琴梨
+[MR__]	106333	矢泽にこ
+[MR__]	351848	矢泽仁子
+[MR__]	94828	矢泽妮歌
+[MR__]	82105	矢泽日香
+[MR__]	86993	LoveLive！
+[MR__]	79519	Love Live!
+[MR__]	97603	Lovelive
 [MR__]	219313	Lovelive!
-[MR__]	222197	第一次 散步拉力活动
-[MR__]	222213	第1回 おさんぽラリー
-[MR__]	222251	LoveLive日服活动列表
-[MR__]	222377	第2回 Medley Festival
-[MR__]	222379	第1回 Medley Festival
-[MR__]	222381	第1回 Challenge Festival
-[MR__]	222385	第1回 Score Match
-[MR__]	222437	LoveLive!学园偶像祭/已无法分离 You are My Love
-[MR__]	222615	已无法分离 You are My Love
-[MR__]	222617	闪耀吧 Can I do!
-[MR__]	222621	第一次的Happy tune
-[MR__]	222625	忧郁的公主
-[MR__]	222627	无瑕的少女心
-[MR__]	222629	理想中的我
-[MR__]	222631	怀抱明月 Love*Heart
-[MR__]	222633	Sweet Holiday 小鸟的点心
-[MR__]	222637	第五次 Score Match
-[MR__]	222639	第四次 Score Match
-[MR__]	222641	第三次 Score Match
-[MR__]	222643	第二次 Score Match
-[MR__]	222645	第一次 Score Match
-[MR__]	222647	第十二次 Medley Festival
-[MR__]	222649	第十一次 Medley Festival
-[MR__]	222651	第十次 Medley Festival
-[MR__]	222653	第九次 Medley Festival
-[MR__]	222655	第八次 Medley Festival
-[MR__]	222657	第七次 Medley Festival
-[MR__]	222659	第六次 Medley Festival
-[MR__]	222661	第五次 Medley Festival
-[MR__]	222663	第四次 Medley Festival
-[MR__]	222665	第三次 Medley Festival
-[MR__]	222667	第二次 Medley Festival
-[MR__]	222669	第一次 Medley Festival
-[MR__]	222673	第三次 Challenge Festival
-[MR__]	222675	第二次 Challenge Festival
-[MR__]	222677	第一次 Challenge Festival
-[MR__]	222679	第1回 散步拉力赛
-[MR__]	222683	LoveLive! 学园偶像祭活动列表
-[MR__]	223013	近未来ハッピーエンド
-[MR__]	223015	海岸通りで待ってるよ
-[MR__]	223019	在不久的将来的Happy end
-[MR__]	223255	LoveLive!学园偶像祭/如梦似幻的One night
-[MR__]	223257	LoveLive!学园偶像祭/努力的人最棒
-[MR__]	223401	第四次 Challenge Festival
-[MR__]	223633	近未来Happy end
-[MR__]	224795	近未来Happy End
-[MR__]	226413	宝物(LoveLive!学园偶像祭)
-[MR__]	227299	LoveLive!学园偶像祭/相互对视的二人
-[MR__]	229267	コワレヤスキ
-[MR__]	229483	高坂穗乃果的母亲
-[MR__]	229485	南小鸟的母亲
-[MR__]	229487	西木野真姬的母亲
-[MR__]	229489	矢泽妮可的母亲
-[MR__]	230409	别离开我 You are My Love
-[MR__]	231221	Aqours CLUB CD SET(专辑)
-[MR__]	232183	爱不是太阳么
-[MR__]	232711	コワレヤスキ(专辑)
-[MR__]	232715	易碎的爱
-[MR__]	237637	LoveLive!学园偶像祭/请给我一个快乐的结局
-[MR__]	238661	ぼららら
-[MR__]	238663	Snow Halation
-[MR__]	238667	人鱼狂欢节 vol. 1
-[MR__]	238669	满怀love接近中
-[MR__]	238671	愛してるばんざーい!
-[MR__]	238673	Loveless world
-[MR__]	238675	Moment ring
-[MR__]	238677	さようならへさよなら
-[MR__]	238679	永远friends
-[MR__]	238681	ナイチンゲールラブソング
-[MR__]	238683	Nightingale Love Song
 [MR__]	238685	ラブライブ
 [MR__]	238687	ラブライブ!
-[MR__]	238689	夏天请不要结束
-[MR__]	238693	知らないLove＊教えてLove
-[MR__]	238697	あのねがんばれ!
-[MR__]	238699	あのねがんばれ
-[MR__]	238701	キミのくせに
-[MR__]	238705	辉夜城
-[MR__]	238711	欲于辉夜城起舞
-[MR__]	238823	にこぷり女子道
-[MR__]	238825	妮可不理
-[MR__]	238845	迄今为止的lovelive
-[MR__]	238847	ハテナハートビート
-[MR__]	238859	想在MUSEUM做什么
-[MR__]	238867	人鱼狂欢节 vol.2 ~激情版~
-[MR__]	238869	恋爱的信号 Rin rin rin
-[MR__]	238871	凛凛凛个鳖
-[MR__]	238877	告白日和、です！
-[MR__]	238879	ぶる～べりぃ♥とれいん
-[MR__]	240299	爱与演唱会！阳光！！
-[MR__]	241097	夏への扉 Never end ver.
-[MR__]	241099	真夏は誰のモノ？
-[MR__]	241105	夏の終わりの雨音が
-[MR__]	242599	地元愛♡満タン☆サマーライフ
-[MR__]	242601	故乡爱♡满载的☆夏日生活
-[MR__]	243279	P.S.の向こう側
-[MR__]	244549	深井冰版lovelive！
-[MR__]	247135	易碎之恋
-[MR__]	249271	樱花雨
-[MR__]	255133	你逢田姐当然会OO呀
-[MR__]	255639	PDP
-[MR__]	255889	君の瞳を巡る冒険
-[MR__]	256363	LoveLive!学园偶像祭/第一次 校园漫步关卡战
-[MR__]	256605	勇気はどこに？君の胸に！
-[MR__]	256761	MY舞☆TONIGHT
-[MR__]	257986	未来の僕らは知ってるよ
-[MR__]	257988	未来の僕らは知ってるよ(专辑)
-[MR__]	258562	易碎之恋(专辑)
-[MR__]	259362	勇気はどこに？君の胸に！(专辑)
-[MR__]	259894	DROPOUT!?
-[MR__]	260126	LoveLive!学园偶像祭/第一次 散步拉力活动
-[MR__]	260128	LoveLive!学园偶像祭/第二次 散步拉力活动
-[MR__]	260482	Pops heartで踊るんだもん！
-[MR__]	261184	太陽を追いかけろ！
-[MR__]	261186	空も心も晴れるから
-[MR__]	261188	G線上のシンデレラ
-[MR__]	261190	サンシャインぴっかぴか音頭
-[MR__]	261192	ハミングフレンド
-[MR__]	261194	少女以上の恋がしたい
-[MR__]	261196	ジングルベルがとまらない
-[MR__]	261198	聖なる日の祈り
-[MR__]	261402	おやすみなさん！
-[MR__]	263478	LoveLive!学园偶像祭/第一次 散步拉力赛活动
-[MR__]	263480	LoveLive!学园偶像祭/第二次 散步拉力赛活动
-[MR__]	263482	LoveLive!学园偶像祭/第三次 散步拉力
-[MR__]	266564	LoveLive!学园偶像祭/不灭的热情
-[MR__]	266956	晚安大家!
-[MR__]	267378	盛夏是谁的东西?
-[MR__]	272534	LoveLive!学园偶像祭/相互凝视的二人
-[MR__]	276234	LoveLive!学园偶像祭/第一次 好友MATCH
-[MR__]	276238	LoveLive!学园偶像祭/第二次 好友MATCH
-[MR__]	276240	LoveLive!学园偶像祭/第三次 好友MATCH
-[MR__]	276242	LoveLive!学园偶像祭/第四次 好友MATCH
-[MR__]	276244	LoveLive!学园偶像祭/第五次 好友MATCH
-[MR__]	276944	音乃木坂学院
-[MR__]	277550	ぷちぐるラブライブ！
-[MR__]	278576	趴趴玩偶LoveLive
-[MR__]	278636	Puchiguru
-[MR__]	278638	Puchiguru LoveLive!
-[MR__]	278996	Lily white(LoveLive!)
-[MR__]	279538	サクラバイバイ
-[MR__]	279540	卒業ですね
-[MR__]	279542	キセキヒカル
-[MR__]	281242	转一圈出奇迹
-[MR__]	284908	LoveLive!学园偶像祭/请给我一个Happy end
-[MR__]	284982	ホップ ステップ ワーイ！
-[MR__]	284986	Hop Step Whee!
-[MR__]	292576	LoveLive!School Idol Festival Perfect Dream Project
-[MR__]	293850	LoveLive!学园偶像祭/LoveLive!学园偶像祭游戏机制
-[MR__]	293852	LoveLive!学园偶像祭/LoveLive!学园偶像祭礼包详情
-[MR__]	293854	LoveLive!学园偶像祭/LoveLive!学园偶像祭活动介绍
-[MR__]	293856	LoveLive!学园偶像祭/LoveLive!学园偶像祭歌曲列表
-[MR__]	293860	LoveLive!学园偶像祭/LoveLive!学园偶像祭外部链接及参考资料
-[MR__]	293870	LoveLive!学园偶像祭游戏机制
-[MR__]	293950	LoveLive!学园偶像祭礼包详情
-[MR__]	293952	LoveLive!学园偶像祭外部链接及参考资料
-[MR__]	293954	LoveLive!学园偶像祭活动介绍
-[MR__]	293956	LoveLive!学园偶像祭歌曲列表
-[MR__]	293974	LoveLive!学园偶像祭活动列表
-[MR__]	294086	NiconicoNi
-[MR__]	295222	艾玛(LoveLive!)
-[MR__]	301444	开始的Road
-[MR__]	301448	ハジマリロード
-[MR__]	302468	夢への一歩
-[MR__]	302470	ダイアモンド
-[MR__]	302472	あなたの理想のヒロイン
-[MR__]	302474	めっちゃGoing!!
-[MR__]	302476	眠れる森に行きたいな
-[MR__]	302480	ドキピポ☆エモーション
-[MR__]	302680	CYaRon！
-[MR__]	362692	Sifas
-[MR__]	302700	LoveLive!学园偶像祭/恋爱也无妨喔
-[MR__]	303232	钻石公主的忧郁
-[MR__]	303236	钻石公主的忧郁(专辑)
-[MR__]	303250	近未来Happy End(专辑)
-[MR__]	303252	Thrilling one way
-[MR__]	303288	你的心灵是否光芒闪耀
-[MR__]	303290	你的心灵是否光芒闪耀(专辑)
-[MR__]	303292	让我俘虏你的心PLEASE
-[MR__]	303294	让我俘虏你的心PLEASE(专辑)
-[MR__]	303296	最喜欢的话就没问题
-[MR__]	303298	下定决心Hand in Hand／最喜欢的话就没问题
-[MR__]	303302	再会了再见
-[MR__]	303304	向幸福前行的SMILING
-[MR__]	303306	我喜欢你你喜欢我吗
-[MR__]	303308	爱不是太阳吗
-[MR__]	303312	恋爱的信号Rin rin rin
-[MR__]	303314	我开始做魔法使了
-[MR__]	303316	告白日和
-[MR__]	303318	这是，告白日和！(专辑)
-[MR__]	303320	淡淡的穗乃果色(专辑)
-[MR__]	303322	羽毛知道了
-[MR__]	303494	奇迹生辉
-[MR__]	304250	我在海边等着你哦
-[MR__]	304440	“MY LIST” to you!
-[MR__]	306476	LoveLive!学园偶像祭/おこりんぼ大会
-[MR__]	308518	Beginner’s Sailing
-[MR__]	309826	LoveLive!Sunshine!! The School Idol Movie Over the Rainbow
+[MR__]	211265	ラブライブ School idol project
+[MR__]	79118	垃圾人
+[MR__]	94072	明星學生妹
 [MR__]	309828	爱与演唱会！
-[MR__]	309830	爱与演唱会!阳光!!学园偶像电影:彩虹彼端
-[MR__]	309942	僕らの走ってきた道は…
-[MR__]	310978	みんなでスコアマッチ 历次活动与曲池
-[MR__]	311550	Bibi
-[MR__]	314794	さかなかなんだか？
-[MR__]	314796	是鱼吗，还是什么？
-[MR__]	314798	SAKANAKANANDAKA?
-[MR__]	314800	是鱼还是什么？
-[MR__]	316516	LoveLive!学园偶像祭/おんなじキモチなの
-[MR__]	325240	LoveLive!学园偶像祭/Guilty Eyesで 恋に落ちて
-[MR__]	327516	逃走迷走メビウスループ
-[MR__]	330666	LoveLive!学园偶像祭/また会える気がするからさ
-[MR__]	336342	未体験HORIZON
-[MR__]	338414	LoveLive!学园偶像祭/助けてあげたい この歌で
-[MR__]	338954	虹咲学园学园偶像同好会
-[MR__]	339066	☆ワンダーランド☆
-[MR__]	339068	☆Wonderland☆
-[MR__]	339070	オードリー
-[MR__]	339072	声繋ごうよ
-[MR__]	339074	テレテレパシー
-[MR__]	340756	LoveLive!虹咲学园学园偶像同好会/Love Live! Nijigasaki High School Idol Club First Live “with You”
-[MR__]	341822	LoveLive!School idol festival PERFECT Dream Project
-[MR__]	341824	LoveLive!School idol festival PERFECT Dream Project/Love Live! Nijigasaki High School Idol Club First Live “with You”
-[MR__]	341826	LoveLive!School idol festival PERFECT Dream Project/虹咲学园学园偶像同好会 First Live “with You”
-[MR__]	342930	LoveLive!系列/LoveLive! Fest
-[MR__]	344896	友&愛
-[MR__]	345966	KOKORO Magic "A to Z"
-[MR__]	346264	NEURON,NEURON!!
+[MR__]	119336	Osaka Shizuku
+[MR__]	106442	それは僕たちの奇跡
+[MR__]	84706	好好的一个人
+[MR__]	82055	宫下可可
+[MR__]	160401	我们的奇迹
+[MR__]	83599	日香日香日
+[MR__]	119335	樱坂しずく
+[MR__]	100221	樱阪雫
+[MR__]	110133	这就是我们的奇迹
+[MR__]	90375	黒羽咲良
+[MR__]	86627	KKE
+[MR__]	294086	NiconicoNi
+[MR__]	83598	Niconiconi
+[MR__]	99946	Niconiconi～
+[MR__]	83596	妮可妮可妮
+[MR__]	94199	妮可笑眯眯
+[MR__]	155796	微笑小香香
+[MR__]	208513	果果
+[MR__]	244549	深井冰版lovelive！
+[MR__]	106335	绚濑絵里
+[MR__]	111211	2.5次元LoveLive!
+[MR__]	85068	ぶる～べりぃ♡とれいん
+[MR__]	238879	ぶる～べりぃ♥とれいん
+[MR__]	303316	告白日和
+[MR__]	134034	告白日和!
+[MR__]	238877	告白日和、です！
+[MR__]	111210	深井冰配音版LoveLive!
+[MR__]	133438	深井冰配音版lovelive
+[MR__]	163287	蓝莓 列车
+[MR__]	86760	蓝莓火车
+[MR__]	106685	Mermaid festa vol.2 ~passionate~
+[MR__]	171087	ダイヤモンドプリンセスの憂鬱
+[MR__]	109583	乙女式れんあい塾
+[MR__]	238867	人鱼狂欢节 vol.2 ~激情版~
+[MR__]	238871	凛凛凛个鳖
+[MR__]	104595	恋のシグナルRin rin rin!
+[MR__]	303312	恋爱的信号Rin rin rin
+[MR__]	238869	恋爱的信号 Rin rin rin
+[MR__]	172358	恋爱的信号 Rin rin rin!
+[MR__]	303232	钻石公主的忧郁
+[MR__]	184997	まほうつかいはじめました！
+[MR__]	160397	不知道的Love 告诉我吧Love
+[MR__]	107026	孤独なHeaven
+[MR__]	160905	孤独天堂
+[MR__]	86852	孤独的天堂
+[MR__]	303314	我开始做魔法使了
+[MR__]	134037	我开始做魔法使了!
+[MR__]	171089	知らないLove*教えてLove
+[MR__]	104396	请教我如何面对未到的爱情
+[MR__]	87612	魔法使初次见面!
+[MR__]	238661	ぼららら
+[MR__]	123695	不知道的Love*教给我吧Love
+[MR__]	103537	僕らのLIVE 君とのLIFE
+[MR__]	183322	微热mystery
+[MR__]	160449	微热的Mystery
+[MR__]	171090	微熱からMystery
+[MR__]	216439	我们的Live与你的Life
+[MR__]	105630	我们的live 你的life
+[MR__]	238693	知らないLove＊教えてLove
+[MR__]	106369	雪色光晕
+[MR__]	171082	Baby maybe 恋のボタン
+[MR__]	88883	Baby maybe恋爱的button
+[MR__]	355348	Baby maybe恋爱的按钮
+[MR__]	160386	Baby maybe恋爱的纽扣
+[MR__]	160388	Mermaid festavol.1
+[MR__]	238663	Snow Halation
+[MR__]	171084	もぎゅっと“love”で接近中！
+[MR__]	238667	人鱼狂欢节 vol. 1
+[MR__]	152862	夏色えがおで1,2,Jump!
+[MR__]	133416	满怀爱意接近中!
+[MR__]	238699	あのねがんばれ
+[MR__]	238697	あのねがんばれ!
+[MR__]	152863	もぎゅっと“love”で接近中!
+[MR__]	123694	我·说·啊·请·你·加·油
+[MR__]	123691	我·说·啊·请·你·加·油!
+[MR__]	123690	我说啊请你加油
+[MR__]	238669	满怀love接近中
+[MR__]	355256	满怀“love”接近中!
+[MR__]	155033	满怀爱意接近中
+[MR__]	160389	满怀爱意接近你
+[MR__]	112977	After school NAVIGATOR
+[MR__]	96427	LoveLive! 学园偶像祭
+[MR__]	238673	Loveless world
+[MR__]	160095	ラブノベルス
+[MR__]	85165	士兵游戏
+[MR__]	85115	夏、終わらないで。
+[MR__]	355354	夏天,请不要结束
+[MR__]	238689	夏天请不要结束
+[MR__]	160450	夏日,不会终结
+[MR__]	100269	夏日勿终
+[MR__]	127617	SIF
+[MR__]	85153	Wonderful rush
+[MR__]	106435	ススメ→トゥモロウ
+[MR__]	171617	前进→Tomorrow
+[MR__]	108806	学园偶像祭
+[MR__]	97461	想在輝夜之城起舞
+[MR__]	96484	我给你三张KKE
+[MR__]	106440	硝子の花園
+[MR__]	160392	继续前进→Tomorrow
+[MR__]	97460	輝夜の城で踊りたい
+[MR__]	102258	ありふれた悲しみの果て
+[MR__]	106446	ずるいよMagnetic today
+[MR__]	160391	不夜城之舞
+[MR__]	96485	买袜子go go
+[MR__]	102261	勇気のReason
+[MR__]	108807	学园偶像天国
+[MR__]	238711	欲于辉夜城起舞
+[MR__]	160602	满溢悲伤的尽头
 [MR__]	347806	磁力花园
-[MR__]	347808	风暴花园
-[MR__]	349640	コドク·テレポート
+[MR__]	238705	辉夜城
+[MR__]	97414	LoveLive! 学园偶像天国
+[MR__]	86834	Puwapuwa-o!
+[MR__]	106438	なわとび
+[MR__]	106441	ぷわぷわーお!
+[MR__]	101997	ぷわぷわーお！
+[MR__]	238825	妮可不理
+[MR__]	184998	純愛レンズ
+[MR__]	131962	软绵绵的-哦!
+[MR__]	360772	软绵绵的哦
+[MR__]	96494	黑丝的大叔
 [MR__]	350360	にこぷり♡女子道
-[MR__]	351486	Μ’s
-[MR__]	351560	艾玛·薇蒂
-[MR__]	351836	冒険Type A, B, C!!
-[MR__]	351838	恋になりたいAQUARIUM
-[MR__]	351840	予測不可能Driving!
-[MR__]	351842	メイズセカイ
+[MR__]	106439	にこぷり♥女子道
+[MR__]	238823	にこぷり女子道
+[MR__]	106444	ユメノトビラ
+[MR__]	152961	梦想大门
+[MR__]	232183	爱不是太阳么
+[MR__]	163790	爱不是太阳么?
+[MR__]	303308	爱不是太阳吗
+[MR__]	107483	通向梦想之门
+[MR__]	100271	通往梦想的大门
+[MR__]	106447	くるりんMIRACLE
+[MR__]	106453	もうひとりじゃないよ
+[MR__]	97457	タカラモノズ
+[MR__]	121542	一心一教
+[MR__]	155050	团团凛MIRACLE
+[MR__]	226413	宝物(LoveLive!学园偶像祭)
+[MR__]	106452	爱は太阳じゃない？
+[MR__]	102700	爱不像太阳吗?
+[MR__]	110759	爱如阳光
+[MR__]	155026	爱如阳光?
+[MR__]	238701	キミのくせに
+[MR__]	103536	キミのくせに!
+[MR__]	160138	キミのくせに！
+[MR__]	212383	你怎么可能会有女朋友嘛
+[MR__]	160451	分明就是你!
+[MR__]	86997	明明只是你
+[MR__]	355352	明明只是你!
+[MR__]	108797	永遠フレンズ
+[MR__]	281242	转一圈出奇迹
+[MR__]	347808	风暴花园
+[MR__]	238683	Nightingale Love Song
+[MR__]	238681	ナイチンゲールラブソング
+[MR__]	108702	友情ノーチェンジ
+[MR__]	85140	友情不变
+[MR__]	238679	永远friends
+[MR__]	171091	秋のあなたの空遠く
+[MR__]	162657	秋之彼端路遥远
+[MR__]	156607	秋天的你远离天空
+[MR__]	156606	秋日的你远在天边
+[MR__]	102467	秋日的你逐渐远去
+[MR__]	107358	きっと青春が聞こえる
+[MR__]	106436	これからのSomeday
+[MR__]	106231	スピカテリブル
+[MR__]	155022	一定能听见青春的乐章
+[MR__]	107359	僕らは今のなかで
+[MR__]	155023	我们是未来的花朵
+[MR__]	215499	我们活在当下
+[MR__]	160396	未来的某一天
+[MR__]	213523	珍珠星的距离
+[MR__]	106451	私たちは未来の花
+[MR__]	106443	どんなときもずっと
+[MR__]	97459	ふたりハピネス
+[MR__]	106448	もしもからきっと
+[MR__]	106454	るてしキスキしてる
+[MR__]	107864	シアワセ行きのSMILING!
+[MR__]	303304	向幸福前行的SMILING
+[MR__]	100270	如果将来一定
+[MR__]	108791	学园偶像祭主要角色
+[MR__]	99654	学院偶像祭主要角色
+[MR__]	96495	王大粽
+[MR__]	106450	そして最後のページには
+[MR__]	109580	冬がくれた予感
+[MR__]	155028	冬天带给我的预感
+[MR__]	101996	同じ星が见たい
+[MR__]	91039	喜欢吗喜欢吗？
+[MR__]	106449	好きですが好きですか?
+[MR__]	171102	好きですが好きですか？
+[MR__]	216867	开心二人组
+[MR__]	155024	想见到同样的繁星
+[MR__]	303306	我喜欢你你喜欢我吗
+[MR__]	97462	だってだって噫無情
+[MR__]	112226	为了保护我们心爱的○○○……成为偶像！
+[MR__]	160906	可是可是噫无情
+[MR__]	356448	成为如此优美的日子
+[MR__]	106456	斯くも憂美な日となりて
+[MR__]	90815	无梦之梦不是梦
+[MR__]	106437	梦なき梦は梦じゃない
+[MR__]	102267	正因为是噫无情
+[MR__]	106457	革命ですね？神様！
+[MR__]	356456	革命吗?神明大人!
+[MR__]	358128	LLSS
+[MR__]	361666	LoveLive！Sunshine!!
+[MR__]	355334	M是μ'sic的M
+[MR__]	106460	これまでのLoveLive!
+[MR__]	106445	これまでのラブライブ！
+[MR__]	152864	ミはμ'sicのミ
+[MR__]	107369	ミはμ’sicのミ
+[MR__]	240299	爱与演唱会！阳光！！
+[MR__]	238845	迄今为止的lovelive
+[MR__]	106455	革命ですね?神様!
+[MR__]	180667	Lovelive! Sunshine!!
+[MR__]	189973	Lovelivesunshine
+[MR__]	110137	MUSEUMでどうしたい？
+[MR__]	106299	ラブライブ！サンシャイン！！
+[MR__]	109625	乙姫心で恋宫殿
+[MR__]	110135	乙姫心で恋宮殿
+[MR__]	238859	想在MUSEUM做什么
+[MR__]	110136	最低で最高のPARADISO
+[MR__]	142018	棕色羊驼
+[MR__]	142017	白色羊驼
+[MR__]	167304	?←HEARTBEAT
+[MR__]	112228	Hello,数星星
+[MR__]	112124	Hello,星を数えて
+[MR__]	238847	ハテナハートビート
+[MR__]	113544	僕たちはひとつの光
+[MR__]	181997	僕光
+[MR__]	229485	南小鸟的母亲
+[MR__]	113522	我们是一束光
+[MR__]	112813	黑澤ダイヤ
+[MR__]	112801	黒澤ダイヤ
+[MR__]	363044	LoveLive!音乐列表
+[MR__]	172326	Lovelive!事件年表
+[MR__]	152963	Lovelive!音乐列表
+[MR__]	117192	コドクの回廊
+[MR__]	115982	南太太
+[MR__]	116460	妮可的母亲
+[MR__]	115950	小鸟的母亲
+[MR__]	229489	矢泽妮可的母亲
+[MR__]	116409	黑澤ルビィ
+[MR__]	116322	黒澤ルビィ
+[MR__]	346264	NEURON,NEURON!!
+[MR__]	171105	ここで待ってるよ
 [MR__]	351844	夢☆ONCE AGAIN
-[MR__]	351848	矢泽仁子
-[MR__]	352210	中須かすみ
-[MR__]	352214	優木せつ菜
-[MR__]	352534	Doki Pipo☆Emotion
-[MR__]	352684	Teletelepathy
-[MR__]	352854	LoveLive!Sunshine!!/TV动画化作品
-[MR__]	353356	逃走迷走メビウスループ／Hop? Stop? Nonstop!
-[MR__]	353358	僕らの走ってきた道は…／Next SPARKLING!!
-[MR__]	353360	Aqours World Love Live! in LA ~Beyond the Pacific~
-[MR__]	353382	LoveLive!Sunshine!!/LOVE LIVE! SUNSHINE!! Aqours World LoveLive! in LA ～BRAND NEW WAVE～
-[MR__]	353406	Dream Land! Dream World!
-[MR__]	353408	Dream Land!Dream World!
-[MR__]	353412	一生一念
-[MR__]	353528	AZUNA
-[MR__]	353530	A ZU NA
-[MR__]	353928	学园偶像祭感谢祭
-[MR__]	353930	SIF感谢祭
-[MR__]	353932	学园偶像祭感谢祭2015
-[MR__]	353934	SIF感谢祭2015
-[MR__]	353936	学园偶像祭感谢祭2016
-[MR__]	353938	SIF感谢祭2016
-[MR__]	353940	学园偶像祭感谢祭2017
-[MR__]	353942	SIF感谢祭2017
-[MR__]	353944	学园偶像祭感谢祭2018
-[MR__]	353946	SIF感谢祭2018
-[MR__]	353948	学园偶像祭感谢祭2019
-[MR__]	353950	SIF感谢祭2019
-[MR__]	354486	LoveLive!虹之咲学园校园偶像同好会
-[MR__]	354662	故乡爱 满载的 夏日生活
-[MR__]	354664	家乡之爱♡满满☆夏日时光
+[MR__]	122830	大头抢镜
+[MR__]	141268	矢泽可可亚
+[MR__]	141267	矢泽可可罗
+[MR__]	171104	秘密と花園
+[MR__]	122639	羽は知ってしまったの
+[MR__]	171103	羽は知ってしまったの？
+[MR__]	303322	羽毛知道了
+[MR__]	303288	你的心灵是否光芒闪耀
+[MR__]	171107	君のこころは輝いてるかい？
+[MR__]	100268	喜欢你万岁!
+[MR__]	238671	愛してるばんざーい!
+[MR__]	171083	愛してるばんざーい！
+[MR__]	123693	爱上你万岁
+[MR__]	355350	爱上你万岁!
+[MR__]	85306	爱你万岁
+[MR__]	133422	爱你万岁!
+[MR__]	86066	爱你万岁!(PIANO MIX)
+[MR__]	154432	Aqours
+[MR__]	125902	Aqours☆HEROES
+[MR__]	152905	Go Go Lovelive 2015 Dream Sensation
+[MR__]	128509	HEART to HEART!
+[MR__]	132349	LoveLive! μ's Go→Go! LoveLive! 2015 〜Dream Sensation!〜
+[MR__]	125836	RADIO animelo mix LoveLive!~希绘里 Radio Garden~
+[MR__]	125959	RADIO animelo mix LoveLive 希绘里 Radio Garden
+[MR__]	145233	Step！ZERO to ONE
 [MR__]	354936	女性歌手(LoveLive!剧场版)
-[MR__]	354954	SUPER NOVA(专辑)
-[MR__]	354956	Dream Land！Dream World！(专辑)
-[MR__]	354958	Sing & Smile!!(专辑)
-[MR__]	355006	Μ'ｓ Memorial CD-BOX「Complete BEST BOX」
-[MR__]	355028	你的心灵是否光芒闪耀？(专辑)
-[MR__]	355036	想在AQUARIUM恋爱(专辑)
-[MR__]	355044	HAPPY PARTY TRAIN(专辑)
-[MR__]	355046	未体验HORIZON(专辑)
-[MR__]	355054	元气全开DAY!DAY!DAY!(专辑)
-[MR__]	355056	夜空全都知道吗？
-[MR__]	355064	不久将来的Happy End(专辑)
-[MR__]	355080	让我俘虏你的心PLEASE!!(专辑)
-[MR__]	355090	GALAXY HidE and SeeK(专辑)
-[MR__]	355096	青空Jumping Heart(专辑)
-[MR__]	355106	与其诉说梦想，不如高歌梦想(专辑)
-[MR__]	355114	Sailing to the Sunshine(专辑)
-[MR__]	355146	无法停止的Jingle Bell(专辑)
-[MR__]	355148	Landing action Yeah!!(专辑)
-[MR__]	355156	Hop Step Wai!(专辑)
-[MR__]	355160	Jump up HIGH!!(专辑)
-[MR__]	355162	盛夏为谁所拥有?
-[MR__]	355170	Strawberry Trapper(专辑)
-[MR__]	355174	脆弱易碎(专辑)
-[MR__]	355186	未来的我们早已知晓(专辑)
-[MR__]	355188	勇气在哪?在你的内心!
-[MR__]	355190	勇气在哪?在你的内心!(专辑)
-[MR__]	355192	MY舞☆TONIGHT／MIRACLE WAVE
-[MR__]	355194	Awaken the power(专辑)
-[MR__]	355198	Journey to the Sunshine(专辑)
-[MR__]	355210	淡淡的穗乃果色！(专辑)
-[MR__]	355212	天使们的福音(专辑)
-[MR__]	355216	海色少女令人着迷(专辑)
-[MR__]	355218	小鸟Lovin' you(专辑)
-[MR__]	355220	告白日和！(专辑)
-[MR__]	355222	HEART to HEART!(专辑)
-[MR__]	355224	那就是我们的奇迹(专辑)
-[MR__]	355226	一定能听见青春(专辑)
+[MR__]	171106	嵐のなかの恋だから
+[MR__]	362990	LoveLive!/剧场版动画
+[MR__]	140774	LoveLive! NEXT LoveLive! 2014 ENDLESS PARADE
+[MR__]	160221	LoveLive! The School idol Movie
+[MR__]	135295	LoveLive! μ's 3rd Anniversary LoveLive!
+[MR__]	133980	LoveLive部 Nico生课外活动
+[MR__]	133981	LoveLive部 Nico生课外活动~鸟果海~ & LoveLive部 Nico生课外活动~鸟果真姬~
+[MR__]	133977	Loveli Radio NicoRinPana
+[MR__]	152906	NEXT LoveLive 2014 ENDLESS PARADE
+[MR__]	133984	Nico生LoveLive! 新田 Fight Club
+[MR__]	171093	思い出以上になりたくて
+[MR__]	159731	Μ's →NEXT LoveLive! 2014 〜ENDLESS PARADE〜
+[MR__]	355408	優木あんじゅ
+[MR__]	151691	希果百宝箱
+[MR__]	171092	春情ロマンティック
+[MR__]	142055	真姬的母亲
+[MR__]	142016	穗乃果的母亲
+[MR__]	355406	綺羅ツバサ
+[MR__]	229487	西木野真姬的母亲
+[MR__]	171088	錯覚CROSSROADS
+[MR__]	229483	高坂穗乃果的母亲
+[MR__]	355316	Diamond Princess的忧郁(专辑)
+[MR__]	355308	Love marginal(专辑)
+[MR__]	238675	Moment ring
+[MR__]	355236	Snow halation(专辑)
+[MR__]	355326	不知道的Love 教给我吧Love(专辑)
 [MR__]	355228	夏色笑颜1,2,Jump!(专辑)
-[MR__]	355230	Shangri-La Shower(专辑)
+[MR__]	355240	我们的LIVE 与你的LIFE(专辑)
+[MR__]	357494	海色少女に魅せられて
+[MR__]	303236	钻石公主的忧郁(专辑)
+[MR__]	357498	钻石公主的忧郁(单曲)
+[MR__]	364138	Memorial BOX I Solo Live! collection
+[MR__]	355252	Mermaid festa vol.2 ~Passionate~(专辑)
+[MR__]	357492	ことりLovin' you
+[MR__]	153255	ことりLovin' you(专辑)
+[MR__]	357496	ほんのり穗乃果色！
+[MR__]	355218	小鸟Lovin' you(专辑)
+[MR__]	355216	海色少女令人着迷(专辑)
+[MR__]	303320	淡淡的穗乃果色(专辑)
+[MR__]	355210	淡淡的穗乃果色！(专辑)
+[MR__]	355248	满怀“love”接近中!(专辑)
+[MR__]	355238	Soldier game(专辑)
+[MR__]	355244	Wonderful Rush(专辑)
+[MR__]	155768	一定能听见青春的乐章(专辑)
+[MR__]	355220	告白日和！(专辑)
+[MR__]	155769	如今的我们(专辑)
+[MR__]	357524	如今的我们(单曲)
 [MR__]	355232	少女式恋爱塾(专辑)
 [MR__]	355234	少女式恋爱塾(单曲)
-[MR__]	355236	Snow halation(专辑)
-[MR__]	355238	Soldier game(专辑)
-[MR__]	355240	我们的LIVE 与你的LIFE(专辑)
 [MR__]	355242	我们活在当下(专辑)
-[MR__]	355244	Wonderful Rush(专辑)
-[MR__]	355246	无论何时一直(专辑)
-[MR__]	355248	满怀“love”接近中!(专辑)
-[MR__]	355250	Music S.T.A.R.T!!(专辑)
-[MR__]	355252	Mermaid festa vol.2 ~Passionate~(专辑)
-[MR__]	355254	梦想之门(专辑)
-[MR__]	355256	满怀“love”接近中!
-[MR__]	355258	M是μ'sic的M(专辑)
-[MR__]	355260	MOMENT RING(专辑)
-[MR__]	355268	Thank you, FRIENDS!!(专辑)
-[MR__]	355270	KOKORO Magic “A to Z”(专辑)
-[MR__]	355272	New Romantic Sailors(专辑)
-[MR__]	355278	Braveheart Coaster(专辑)
-[MR__]	355280	Amazing Travel DNA(专辑)
-[MR__]	355282	大家晚安!
-[MR__]	355284	Sailing to the Rainbow(专辑)
-[MR__]	355286	想在水族馆恋爱(单曲)
-[MR__]	355308	Love marginal(专辑)
-[MR__]	355310	Pure girls project(专辑)
-[MR__]	355312	永远Friends(专辑)
-[MR__]	355314	WAO-WAO Powerful day!(专辑)
-[MR__]	355316	Diamond Princess的忧郁(专辑)
+[MR__]	303318	这是，告白日和！(专辑)
 [MR__]	355320	Cutie Panther(专辑)
-[MR__]	355322	冬天给予的预感(专辑)
-[MR__]	355324	错觉CROSSROADS(专辑)
-[MR__]	355326	不知道的Love 教给我吧Love(专辑)
-[MR__]	355328	从微热到Mystery(专辑)
-[MR__]	355330	秋日彼端的遥远天空(专辑)
-[MR__]	355332	想成为回忆以上的存在(专辑)
-[MR__]	355334	M是μ'sic的M
-[MR__]	355338	M是μ'sic的M(单曲)
-[MR__]	355342	SUMMER VACATION(专辑)
-[MR__]	355348	Baby maybe恋爱的按钮
-[MR__]	355350	爱上你万岁!
-[MR__]	355352	明明只是你!
-[MR__]	355354	夏天,请不要结束
-[MR__]	355356	SUNNY DAY SONG ?←HEARTBEAT
-[MR__]	355406	綺羅ツバサ
-[MR__]	355408	優木あんじゅ
-[MR__]	355552	恋欲水族馆
-[MR__]	356448	成为如此优美的日子
-[MR__]	356456	革命吗?神明大人!
-[MR__]	356710	三船刊子
-[MR__]	357492	ことりLovin' you
-[MR__]	357494	海色少女に魅せられて
-[MR__]	357496	ほんのり穗乃果色！
-[MR__]	357498	钻石公主的忧郁(单曲)
-[MR__]	357516	秋之彼端路遥远(单曲)
-[MR__]	357524	如今的我们(单曲)
-[MR__]	358128	LLSS
-[MR__]	358664	LoveLive! Fes
-[MR__]	360770	孤独teleport
-[MR__]	360772	软绵绵的哦
-[MR__]	360780	樱花bye-bye
-[MR__]	360784	Humming friend
-[MR__]	360968	樱花Bye-Bye
-[MR__]	361666	LoveLive！Sunshine!!
-[MR__]	362122	LLAS
-[MR__]	362658	Love Live! Nijigasaki High School Idol Club
-[MR__]	362858	CYaRon
-[MR__]	362990	LoveLive!/剧场版动画
-[MR__]	362992	LoveLive!Sunshine!!/剧场版动画
-[MR__]	363044	Lovelive!音乐列表
-[MR__]	363046	LoveLive!翻唱
-[MR__]	363048	LoveLive!应援
-[MR__]	363050	LoveLive!广播剧列表
-[MR__]	363054	LoveLive!/LoveLive部 Nico生课外活动
-[MR__]	363060	LoveLive!/3rd Anniversary LoveLive!
-[MR__]	363062	LoveLive!/Go Go Lovelive 2015 Dream Sensation
-[MR__]	363064	LoveLive!/NEXT LoveLive 2014 ENDLESS PARADE
-[MR__]	363066	LoveLive!/Nico生LoveLive! 新田 Fight Club
-[MR__]	363068	LoveLive!/希绘里Radio Garden
-[MR__]	364012	LoveLive!Sunshine!!应援活动
-[MR__]	364126	Μ's Best Album Best Live! collection II
-[MR__]	364132	Memorial BOX III Solo Live! collection
 [MR__]	364134	Memorial BOX II Solo Live! collection
-[MR__]	364138	Memorial BOX I Solo Live! collection
-[MR__]	364144	Μ's Memorial CD-BOX “Complete BEST BOX”
-[MR__]	364316	なってしまった！
+[MR__]	355250	Music S.T.A.R.T!!(专辑)
+[MR__]	355310	Pure girls project(专辑)
+[MR__]	355226	一定能听见青春(专辑)
+[MR__]	355328	从微热到Mystery(专辑)
+[MR__]	355246	无论何时一直(专辑)
+[MR__]	355254	梦想之门(专辑)
+[MR__]	153457	这就是我们的奇迹(专辑)
+[MR__]	355224	那就是我们的奇迹(专辑)
+[MR__]	355258	M是μ'sic的M(专辑)
+[MR__]	355338	M是μ'sic的M(单曲)
+[MR__]	355230	Shangri-La Shower(专辑)
+[MR__]	364126	Μ's Best Album Best Live! collection II
+[MR__]	355322	冬天给予的预感(专辑)
+[MR__]	355312	永远Friends(专辑)
+[MR__]	163415	秋之彼端路遥远(专辑)
+[MR__]	357516	秋之彼端路遥远(单曲)
+[MR__]	156600	秋天的你的遥远天空(专辑)
+[MR__]	355330	秋日彼端的遥远天空(专辑)
+[MR__]	155019	Angelic Angel Hello,数星星
+[MR__]	355222	HEART to HEART!(专辑)
+[MR__]	355356	SUNNY DAY SONG ?←HEARTBEAT
+[MR__]	355314	WAO-WAO Powerful day!(专辑)
+[MR__]	238677	さようならへさよなら
+[MR__]	303302	再会了再见
+[MR__]	153932	再会了再见!
+[MR__]	355332	想成为回忆以上的存在(专辑)
+[MR__]	160135	錯覚CROSSROADS(专辑)
+[MR__]	355324	错觉CROSSROADS(专辑)
+[MR__]	311550	Bibi
+[MR__]	278996	Lily white(LoveLive!)
+[MR__]	363046	LoveLive!翻唱
+[MR__]	355260	MOMENT RING(专辑)
+[MR__]	171085	さようならへさよなら!
+[MR__]	82003	一之濑茉莉香
+[MR__]	90379	克里斯蒂娜(LoveLive!学园偶像祭)
+[MR__]	355212	天使们的福音(专辑)
+[MR__]	169231	夜空はなんでも知ってるの？
+[MR__]	355056	夜空全都知道吗？
+[MR__]	167107	届かない星だとしても
+[MR__]	171110	待ってて愛のうた
+[MR__]	351838	恋になりたいAQUARIUM
+[MR__]	171108	恋になりたい AQUARIUM
+[MR__]	355552	恋欲水族馆
+[MR__]	216625	想在水族馆恋爱
+[MR__]	169415	等着爱的歌
+[MR__]	351560	艾玛·薇蒂
+[MR__]	362858	CYaRon
+[MR__]	191094	Endless Love 从未改变的友情
+[MR__]	363050	LoveLive!广播剧列表
+[MR__]	171771	ときめき分類学
+[MR__]	172289	トリコリコPLEASE!!
+[MR__]	355054	元气全开DAY!DAY!DAY!(专辑)
+[MR__]	172284	元気全开 DAY! DAY! DAY!
+[MR__]	169237	元気全開DAY! DAY! DAY!
+[MR__]	188595	心跳分类学
+[MR__]	303292	让我俘虏你的心PLEASE
+[MR__]	302680	CYaRon！
+[MR__]	206419	ダイスキだったらダイジョウブ！
+[MR__]	261192	ハミングフレンド
+[MR__]	191428	ユメ語るよりユメ歌おう
+[MR__]	353412	一生一念
+[MR__]	196528	从诉说梦想到歌唱梦想
+[MR__]	303290	你的心灵是否光芒闪耀(专辑)
+[MR__]	355028	你的心灵是否光芒闪耀？(专辑)
+[MR__]	303296	最喜欢的话就没问题
+[MR__]	206417	決めたよHand in Hand
+[MR__]	360784	Humming friend
+[MR__]	189823	LLer
+[MR__]	260482	Pops heartで踊るんだもん！
+[MR__]	261190	サンシャインぴっかぴか音頭
+[MR__]	206415	夢で夜空を照らしたい
+[MR__]	196304	想いよひとつになれ
+[MR__]	193304	拉拉人
+[MR__]	192959	未熟DREAMER
+[MR__]	261186	空も心も晴れるから
+[MR__]	303294	让我俘虏你的心PLEASE(专辑)
+[MR__]	352854	LoveLive!Sunshine!!/TV动画化作品
+[MR__]	355170	Strawberry Trapper(专辑)
+[MR__]	261196	ジングルベルがとまらない
+[MR__]	204453	不会停止的Jingle Bell
+[MR__]	206195	停不下来的Jingle Bell
+[MR__]	206193	停不下来的Jingle Bell(专辑)
+[MR__]	204517	圣日之祈祷
+[MR__]	355146	无法停止的Jingle Bell(专辑)
+[MR__]	261198	聖なる日の祈り
+[MR__]	355080	让我俘虏你的心PLEASE!!(专辑)
+[MR__]	261188	G線上のシンデレラ
+[MR__]	209299	Lovelive!Sunshine!!/动画化作品
+[MR__]	355114	Sailing to the Sunshine(专辑)
+[MR__]	303252	Thrilling one way
+[MR__]	97008	Μ's
+[MR__]	351486	Μ’s
+[MR__]	355036	想在AQUARIUM恋爱(专辑)
+[MR__]	216627	想在水族馆恋爱(专辑)
+[MR__]	355286	想在水族馆恋爱(单曲)
+[MR__]	209297	User:萌萌汤圆/Lovelive!Sunshine!!/动画化作品
+[MR__]	355044	HAPPY PARTY TRAIN(专辑)
+[MR__]	293974	LoveLive!学园偶像祭活动列表
+[MR__]	222251	LoveLive日服活动列表
+[MR__]	243279	P.S.の向こう側
+[MR__]	303298	下定决心Hand in Hand／最喜欢的话就没问题
+[MR__]	355106	与其诉说梦想，不如高歌梦想(专辑)
+[MR__]	261184	太陽を追いかけろ！
+[MR__]	261194	少女以上の恋がしたい
+[MR__]	355096	青空Jumping Heart(专辑)
+[MR__]	276944	音乃木坂学院
+[MR__]	222683	LoveLive! 学园偶像祭活动列表
+[MR__]	222633	Sweet Holiday 小鸟的点心
+[MR__]	222381	第1回 Challenge Festival
+[MR__]	222379	第1回 Medley Festival
+[MR__]	222385	第1回 Score Match
+[MR__]	222377	第2回 Medley Festival
+[MR__]	222677	第一次 Challenge Festival
+[MR__]	222669	第一次 Medley Festival
+[MR__]	222645	第一次 Score Match
+[MR__]	222667	第二次 Medley Festival
+[MR__]	260126	LoveLive!学园偶像祭/第一次 散步拉力活动
+[MR__]	263478	LoveLive!学园偶像祭/第一次 散步拉力赛活动
+[MR__]	256363	LoveLive!学园偶像祭/第一次 校园漫步关卡战
+[MR__]	222213	第1回 おさんぽラリー
+[MR__]	222679	第1回 散步拉力赛
+[MR__]	222197	第一次 散步拉力活动
+[MR__]	222665	第三次 Medley Festival
+[MR__]	222675	第二次 Challenge Festival
+[MR__]	222643	第二次 Score Match
+[MR__]	222663	第四次 Medley Festival
+[MR__]	222657	第七次 Medley Festival
+[MR__]	222673	第三次 Challenge Festival
+[MR__]	222641	第三次 Score Match
+[MR__]	222653	第九次 Medley Festival
+[MR__]	222661	第五次 Medley Festival
+[MR__]	222655	第八次 Medley Festival
+[MR__]	222659	第六次 Medley Festival
+[MR__]	222649	第十一次 Medley Festival
+[MR__]	222647	第十二次 Medley Festival
+[MR__]	222651	第十次 Medley Festival
+[MR__]	222625	忧郁的公主
+[MR__]	222631	怀抱明月 Love*Heart
+[MR__]	304250	我在海边等着你哦
+[MR__]	222627	无瑕的少女心
+[MR__]	223015	海岸通りで待ってるよ
+[MR__]	222629	理想中的我
+[MR__]	222621	第一次的Happy tune
+[MR__]	222637	第五次 Score Match
+[MR__]	222639	第四次 Score Match
+[MR__]	222617	闪耀吧 Can I do!
+[MR__]	293852	LoveLive!学园偶像祭/LoveLive!学园偶像祭礼包详情
+[MR__]	266564	LoveLive!学园偶像祭/不灭的热情
+[MR__]	272534	LoveLive!学园偶像祭/相互凝视的二人
+[MR__]	227299	LoveLive!学园偶像祭/相互对视的二人
+[MR__]	293950	LoveLive!学园偶像祭礼包详情
+[MR__]	223019	在不久的将来的Happy end
+[MR__]	223401	第四次 Challenge Festival
+[MR__]	224795	近未来Happy End
+[MR__]	223633	近未来Happy end
+[MR__]	223013	近未来ハッピーエンド
+[MR__]	231221	Aqours CLUB CD SET(专辑)
+[MR__]	355090	GALAXY HidE and SeeK(专辑)
+[MR__]	355148	Landing action Yeah!!(专辑)
+[MR__]	229267	コワレヤスキ
+[MR__]	355064	不久将来的Happy End(专辑)
+[MR__]	230409	别离开我 You are My Love
+[MR__]	222615	已无法分离 You are My Love
+[MR__]	247135	易碎之恋
+[MR__]	232715	易碎的爱
+[MR__]	303250	近未来Happy End(专辑)
+[MR__]	223255	LoveLive!学园偶像祭/如梦似幻的One night
+[MR__]	222437	LoveLive!学园偶像祭/已无法分离 You are My Love
+[MR__]	276234	LoveLive!学园偶像祭/第一次 好友MATCH
+[MR__]	284908	LoveLive!学园偶像祭/请给我一个Happy end
+[MR__]	237637	LoveLive!学园偶像祭/请给我一个快乐的结局
+[MR__]	232711	コワレヤスキ(专辑)
+[MR__]	352210	中須かすみ
+[MR__]	352214	優木せつ菜
+[MR__]	258562	易碎之恋(专辑)
+[MR__]	355174	脆弱易碎(专辑)
+[MR__]	355342	SUMMER VACATION(专辑)
+[MR__]	242599	地元愛♡満タン☆サマーライフ
+[MR__]	241105	夏の終わりの雨音が
+[MR__]	241097	夏への扉 Never end ver.
+[MR__]	354664	家乡之爱♡满满☆夏日时光
+[MR__]	354662	故乡爱 满载的 夏日生活
+[MR__]	242601	故乡爱♡满载的☆夏日生活
+[MR__]	355162	盛夏为谁所拥有?
+[MR__]	267378	盛夏是谁的东西?
+[MR__]	241099	真夏は誰のモノ？
+[MR__]	362122	LLAS
+[MR__]	292576	LoveLive!School Idol Festival Perfect Dream Project
+[MR__]	260128	LoveLive!学园偶像祭/第二次 散步拉力活动
+[MR__]	263480	LoveLive!学园偶像祭/第二次 散步拉力赛活动
+[MR__]	354486	LoveLive!虹之咲学园校园偶像同好会
+[MR__]	362658	Love Live! Nijigasaki High School Idol Club
+[MR__]	255639	PDP
+[MR__]	362692	Sifas
+[MR__]	249271	樱花雨
+[MR__]	338954	虹咲学园学园偶像同好会
+[MR__]	341822	LoveLive!School idol festival PERFECT Dream Project
+[MR__]	223257	LoveLive!学园偶像祭/努力的人最棒
+[MR__]	256761	MY舞☆TONIGHT
+[MR__]	304440	“MY LIST” to you!
+[MR__]	255133	你逢田姐当然会OO呀
+[MR__]	355188	勇气在哪?在你的内心!
+[MR__]	256605	勇気はどこに？君の胸に！
+[MR__]	255889	君の瞳を巡る冒険
+[MR__]	257986	未来の僕らは知ってるよ
+[MR__]	257988	未来の僕らは知ってるよ(专辑)
+[MR__]	259894	DROPOUT!?
+[MR__]	302700	LoveLive!学园偶像祭/恋爱也无妨喔
+[MR__]	276238	LoveLive!学园偶像祭/第二次 好友MATCH
+[MR__]	355192	MY舞☆TONIGHT／MIRACLE WAVE
+[MR__]	261402	おやすみなさん！
+[MR__]	355190	勇气在哪?在你的内心!(专辑)
+[MR__]	259362	勇気はどこに？君の胸に！(专辑)
+[MR__]	355282	大家晚安!
+[MR__]	266956	晚安大家!
+[MR__]	355186	未来的我们早已知晓(专辑)
+[MR__]	355194	Awaken the power(专辑)
+[MR__]	308518	Beginner’s Sailing
+[MR__]	355198	Journey to the Sunshine(专辑)
+[MR__]	362992	LoveLive!Sunshine!!/剧场版动画
+[MR__]	309826	LoveLive!Sunshine!! The School Idol Movie Over the Rainbow
+[MR__]	306476	LoveLive!学园偶像祭/おこりんぼ大会
+[MR__]	276240	LoveLive!学园偶像祭/第三次 好友MATCH
+[MR__]	263482	LoveLive!学园偶像祭/第三次 散步拉力
+[MR__]	276242	LoveLive!学园偶像祭/第四次 好友MATCH
+[MR__]	309830	爱与演唱会!阳光!!学园偶像电影:彩虹彼端
+[MR__]	316516	LoveLive!学园偶像祭/おんなじキモチなの
+[MR__]	276244	LoveLive!学园偶像祭/第五次 好友MATCH
+[MR__]	278636	Puchiguru
+[MR__]	278638	Puchiguru LoveLive!
+[MR__]	314798	SAKANAKANANDAKA?
+[MR__]	314794	さかなかなんだか？
+[MR__]	277550	ぷちぐるラブライブ！
+[MR__]	314796	是鱼吗，还是什么？
+[MR__]	314800	是鱼还是什么？
+[MR__]	278576	趴趴玩偶LoveLive
+[MR__]	353360	Aqours World Love Live! in LA ~Beyond the Pacific~
+[MR__]	355156	Hop Step Wai!(专辑)
+[MR__]	284986	Hop Step Whee!
+[MR__]	279542	キセキヒカル
+[MR__]	279538	サクラバイバイ
+[MR__]	284982	ホップ ステップ ワーイ！
+[MR__]	279540	卒業ですね
+[MR__]	303494	奇迹生辉
+[MR__]	360968	樱花Bye-Bye
+[MR__]	360780	樱花bye-bye
+[MR__]	325240	LoveLive!学园偶像祭/Guilty Eyesで 恋に落ちて
+[MR__]	293850	LoveLive!学园偶像祭/LoveLive!学园偶像祭游戏机制
+[MR__]	293870	LoveLive!学园偶像祭游戏机制
+[MR__]	364132	Memorial BOX III Solo Live! collection
+[MR__]	355268	Thank you, FRIENDS!!(专辑)
+[MR__]	302472	あなたの理想のヒロイン
+[MR__]	310978	みんなでスコアマッチ 历次活动与曲池
+[MR__]	302470	ダイアモンド
+[MR__]	302468	夢への一歩
+[MR__]	352534	Doki Pipo☆Emotion
+[MR__]	293860	LoveLive!学园偶像祭/LoveLive!学园偶像祭外部链接及参考资料
+[MR__]	293856	LoveLive!学园偶像祭/LoveLive!学园偶像祭歌曲列表
+[MR__]	293854	LoveLive!学园偶像祭/LoveLive!学园偶像祭活动介绍
+[MR__]	293952	LoveLive!学园偶像祭外部链接及参考资料
+[MR__]	293956	LoveLive!学园偶像祭歌曲列表
+[MR__]	293954	LoveLive!学园偶像祭活动介绍
+[MR__]	302474	めっちゃGoing!!
+[MR__]	302480	ドキピポ☆エモーション
+[MR__]	302476	眠れる森に行きたいな
+[MR__]	330666	LoveLive!学园偶像祭/また会える気がするからさ
+[MR__]	338414	LoveLive!学园偶像祭/助けてあげたい この歌で
+[MR__]	355284	Sailing to the Rainbow(专辑)
+[MR__]	301448	ハジマリロード
+[MR__]	351840	予測不可能Driving!
+[MR__]	309942	僕らの走ってきた道は…
+[MR__]	353358	僕らの走ってきた道は…／Next SPARKLING!!
+[MR__]	301444	开始的Road
+[MR__]	327516	逃走迷走メビウスループ
+[MR__]	353356	逃走迷走メビウスループ／Hop? Stop? Nonstop!
+[MR__]	355160	Jump up HIGH!!(专辑)
+[MR__]	341824	LoveLive!School idol festival PERFECT Dream Project/Love Live! Nijigasaki High School Idol Club First Live “with You”
+[MR__]	341826	LoveLive!School idol festival PERFECT Dream Project/虹咲学园学园偶像同好会 First Live “with You”
+[MR__]	358664	LoveLive! Fes
+[MR__]	342930	LoveLive!系列/LoveLive! Fest
+[MR__]	339068	☆Wonderland☆
+[MR__]	351836	冒険Type A, B, C!!
+[MR__]	336342	未体験HORIZON
+[MR__]	355046	未体验HORIZON(专辑)
+[MR__]	345966	KOKORO Magic "A to Z"
 [MR__]	365024	LoveLive!学园偶像祭/学园偶像祭感谢祭
-[MR__]	365026	LoveLive!学园偶像祭/学园偶像祭感谢祭/学园偶像祭感谢祭2015
+[MR__]	353930	SIF感谢祭
+[MR__]	352684	Teletelepathy
+[MR__]	339066	☆ワンダーランド☆
+[MR__]	339070	オードリー
+[MR__]	339074	テレテレパシー
+[MR__]	344896	友&愛
+[MR__]	339072	声繋ごうよ
+[MR__]	353928	学园偶像祭感谢祭
 [MR__]	365028	LoveLive!学园偶像祭/学园偶像祭感谢祭/学园偶像祭感谢祭2016
 [MR__]	365030	LoveLive!学园偶像祭/学园偶像祭感谢祭/学园偶像祭感谢祭2017
-[MR__]	365032	LoveLive!学园偶像祭/学园偶像祭感谢祭/学园偶像祭感谢祭2018
 [MR__]	365034	LoveLive!学园偶像祭/学园偶像祭感谢祭/学园偶像祭感谢祭2019
+[MR__]	353938	SIF感谢祭2016
+[MR__]	353942	SIF感谢祭2017
+[MR__]	353950	SIF感谢祭2019
+[MR__]	353936	学园偶像祭感谢祭2016
+[MR__]	353940	学园偶像祭感谢祭2017
+[MR__]	353944	学园偶像祭感谢祭2018
+[MR__]	353948	学园偶像祭感谢祭2019
+[MR__]	355278	Braveheart Coaster(专辑)
+[MR__]	355270	KOKORO Magic “A to Z”(专辑)
+[MR__]	365026	LoveLive!学园偶像祭/学园偶像祭感谢祭/学园偶像祭感谢祭2015
+[MR__]	365032	LoveLive!学园偶像祭/学园偶像祭感谢祭/学园偶像祭感谢祭2018
+[MR__]	355272	New Romantic Sailors(专辑)
+[MR__]	353934	SIF感谢祭2015
+[MR__]	353946	SIF感谢祭2018
+[MR__]	349640	コドク·テレポート
+[MR__]	360770	孤独teleport
+[MR__]	353932	学园偶像祭感谢祭2015
+[MR__]	353530	A ZU NA
+[MR__]	355280	Amazing Travel DNA(专辑)
+[MR__]	353408	Dream Land!Dream World!
+[MR__]	353406	Dream Land! Dream World!
+[MR__]	354956	Dream Land！Dream World！(专辑)
+[MR__]	354954	SUPER NOVA(专辑)
+[MR__]	354958	Sing & Smile!!(专辑)
+[MR__]	364144	Μ's Memorial CD-BOX “Complete BEST BOX”
+[MR__]	355006	Μ'ｓ Memorial CD-BOX「Complete BEST BOX」
+[MR__]	351842	メイズセカイ
+[MR__]	353528	AZUNA
+[MR__]	364316	なってしまった！
+[MR__]	356710	三船刊子
+[MR__]	365882	千歌的母亲
+[MR__]	365880	梨子的母亲
+[MR__]	366556	LoveLive!学园偶像祭/LoveLive!学园偶像祭发展历史
+[MR__]	369288	LoveLive!学园偶像祭ALL STARS/秘密のパーティー！
 [P___]	184825	萌娘百科:页面存废/LoveLiveSongGai2/SIF
 [T___]	85645	Template:Llsiftop
 [T___]	85829	Template:Llhead
@@ -1658,3 +1658,5 @@
 [U___]	322248	User:TBB000623/Lovelive学园偶像祭国服礼包
 [U___]	359872	User:胡祥又/萌娘百科LoveLive!系列编辑部
 [U___]	364008	User:Sanry/List
+[U___]	233457	User:17orAvril/Sandbox
+[U___]	147824	User:Eddie32/OreLoveliveCall

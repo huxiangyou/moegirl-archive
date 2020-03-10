@@ -107,10 +107,10 @@ for pageidlist_d in devide(pageidlist,50):
 					continue
 				else:
 					if b.ok:
-						json:dict=b.json()
-						if isResponceOK(json):
+						json2:dict=b.json()
+						if isResponceOK(json2):
 							break
-			pageJson=json['query']['pages'][str(pageid)]
+			pageJson=json2['query']['pages'][str(pageid)]
 			if 'revisions' in pageJson:
 				content=pageJson['revisions'][0]['*']
 				title=pageJson['title']
@@ -138,7 +138,7 @@ for pageidlist_d in devide(pageidlist,50):
 				reviddict[pageid]=(revid,title)
 		n_all+=1
 reviddict['info']="萌娘百科页面存档"
-reviddict['time']=json['curtimestamp']
+reviddict['time']=json2['curtimestamp']
 reviddict['by']=socket.getfqdn(socket.gethostname())
 
 saveData()
