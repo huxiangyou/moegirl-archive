@@ -84,16 +84,15 @@ for pageidlist_d in devide(pageidlist,50):
 	l_param:str="|".join(str(i) for i in pageidlist_d)
 	while True:
 		try:
-			a=requests.get(url,params={**params1,**{'pageids':l_param}},timeout=(10,30))
+			a=requests.get(url,params={**params1,**{'requestid':time.time(),'pageids':l_param}},timeout=(10,30))
+			json:dict=a.json()
 		except:
 			print("[出错]\t网络问题，正在重试")
 			n_error+=1
 			continue
 		else:
-			if a.ok:
-				json:dict=a.json()
-				if isResponceOK(json):
-					break
+			if isResponceOK(json):
+				break
 	for pageid in pageidlist_d:
 		if pageid not in reviddict or \
 		reviddict[pageid][0]!=json['query']['pages'][str(pageid)]['lastrevid'] or \
